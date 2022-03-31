@@ -10,7 +10,7 @@ cmd.exe (node  or etc) **:**go to the Back directory (https://github.com/Oxidit/
 cmd.exe **:**go to the Front directory (https://github.com/Oxidit/EstateReactFront) and write **npm start**
  
 
-# Currently supported functionality 
+# What you can do
 The design sucks a bit for now, I know, it's just a quick sample to show the logic of React. I'm planning to change the template for the best in a while 
 :bowtie: 
 
@@ -42,7 +42,7 @@ ________________________________________________________________________________
  
 
 
-# Currently supported functionality
+# Summary: functionality
 
 * Show the current listed apartments  
 * Registration and log in page
