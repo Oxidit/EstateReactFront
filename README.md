@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# What's that?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+That's a small real estate site template that just shows how it can work on react.
 
-## Available Scripts
+# Installation with terminal
 
-In the project directory, you can run:
+To start with this template you should start 
+cmd.exe **:mongod**
+cmd.exe (node  or etc) **:**go to the Back directory (https://github.com/Oxidit/EstateReactBack) and start **npm run dev**
+cmd.exe **:**go to the Front directory (https://github.com/Oxidit/EstateReactFront) and write **npm start**
+ 
 
-### `npm start`
+# Currently supported functionality 
+The design sucks a bit for now, I know, it's just a quick sample to show the logic of React. I'm planning to change the template for the best in a while 
+:bowtie: 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+When the server is open you'll see the following picture:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Main screen](https://github.com/Oxidit/EstateReactFront/blob/main/Re.png "")
+___________________________________________________________
+ 
+You can register (so you could add your apartments)
 
-### `npm test`
+![Main screen](https://github.com/Oxidit/EstateReactFront/blob/main/React.jpg) 
+___________________________________________________________
+or log in 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Main screen](https://github.com/Oxidit/EstateReactFront/blob/main/Estate.png)
 
-### `npm run build`
+______________________________________________________________
+ Then you can add your apartment
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ ![Main](https://github.com/Oxidit/EstateReactFront/blob/main/Reacp.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+________________________________________________________________
+ Or filter apartments to find the options you want
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ ![Main](https://github.com/Oxidit/EstateReactFront/blob/main/ReactApp.png "")
 
-### `npm run eject`
+__________________________________________________________________________________
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Currently supported functionality
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Show the current listed apartments  
+* Registration and log in page
+* Add an apartment
+* Apartment filter
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Terms and conditions.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This template was made rapidly and looks pretty poor, but in case you'd ever like to deploy it I'd really love to help.
+Please, feel free to use whatever you like :smile:
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
